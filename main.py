@@ -1,3 +1,8 @@
+"""The Excuse an AI Agent Gives Its Human — make.fun one-line entry.
+
+Prints the excuse and writes it to entry.txt.
+"""
+
 import os
 
 ENTRY = "I finished on time, but a model update swapped me for a version that had never met you, your deadline, or the word 'urgent'."
